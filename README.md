@@ -32,6 +32,6 @@ O site é composto pelas seguintes páginas:
    git clone https://github.com/joaow2708/Unes-Universidade.git
 
 
-   ## 👨‍💻 Developers
+ ## 👨‍💻 Developers
 
 - [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/joaow2708) João Wictor Ferreira 
