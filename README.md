@@ -5,8 +5,7 @@ Este projeto é uma simulação de um site institucional de uma universidade fic
 ---
 
 ## 📸 Captura de tela
-
-![Preview do site](./imagens/screenshot.png)
+![screenshot png](https://github.com/user-attachments/assets/f4e56ba6-1ca4-4262-9360-df2a47f9ea4b)
 
 ---
 
